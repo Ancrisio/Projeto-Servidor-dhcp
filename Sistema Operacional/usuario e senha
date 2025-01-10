@@ -1,7 +1,6 @@
-O arquivo Debian 12.ova é o sistema operacional onde será instalado e configurado o pacote do servidor dhcp.
 Para fins educacionais foi criado o usuário, senha do usuário e senha super-usuário(root)simples, mas recomenda-se criar usuário e senha forte e complexa.
 
      - Senha e usuário do Sistema Operacional -
                  usuario: usuario
-                 senha: 123456
+                 senha:  123456
                  senha root: 123456
